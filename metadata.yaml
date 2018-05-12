@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1593
     wikipedia: http://en.wikipedia.org/wiki/John_A._Widtsoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34362#Joseph-Smith-as-Scientist--A-Contribution-to-Mormon-Philosophy
 gutenberg_bookshelf:
 - Latter Day Saints
 - Christianity
