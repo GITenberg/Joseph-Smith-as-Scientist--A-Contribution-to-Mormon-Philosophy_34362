@@ -1,0 +1,32 @@
+_repo: Joseph-Smith-as-Scientist--A-Contribution-to-Mormon-Philosophy_34362
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Widtsoe, John Andreas
+    alias: Widtsoe, John A. (John Andreas)
+    birthdate: 1872
+    deathdate: 1952
+    gutenberg_agent_id: '1593'
+    url: http://www.gutenberg.org/2009/agents/1593
+    wikipedia: http://en.wikipedia.org/wiki/John_A._Widtsoe
+description: ''
+gutenberg_bookshelf:
+- Latter Day Saints
+- Christianity
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34362'
+  lccn: 08020997
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Smith, Joseph, Jr., 1805-1844'
+title: 'Joseph Smith as Scientist: A Contribution to Mormon Philosophy'
+url: http://www.gutenberg.org/ebooks/34362
